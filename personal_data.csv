@@ -1,0 +1,11 @@
+Gender,Age,Height (cm),Weight (kg),Occupation,Education Level,Marital Status,Income (USD),Favorite Color
+male,32,175,70,Software Engineer,Master's Degree,Married,75000,Blue
+male,25,182,85,Sales Representative,Bachelor's Degree,Single,45000,Green
+female,41,160,62,Doctor,Doctorate Degree,Married,120000,Purple
+male,38,178,79,Lawyer,Bachelor's Degree,Single,90000,Red
+female,29,165,58,Graphic Designer,Associate's Degree,Single,35000,Yellow
+female,45,168,65,Teacher,Bachelor's Degree,Married,55000,Pink
+male,50,180,90,Manager,Master's Degree,Married,95000,Black
+female,27,162,55,Graphic Designer,Associate's Degree,Single,55000,Green
+male,33,175,77,Sales Representative,Bachelor's Degree,Married,80000,Yellow
+female,29,164,57,Software Developer,Bachelor's Degree,Single,65000,Blue
